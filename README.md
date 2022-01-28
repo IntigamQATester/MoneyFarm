@@ -1,5 +1,10 @@
 # Intro
-In this exercise you need to complete 2 small assignments that will help us understand your capabilities to structure a testing project and your risk analysis skills.
+In this exercise you need to complete 2 small assignments that will help us understand your capabilities to structure a testing project and your risk analysis skills. \
+:wrench: You can create a git project of your own, or email back to HR a .zip file of your work. \
+:white_check_mark: You can use your preferred tools/framework/coding language. \
+:boom: Ideally, triggereing the tests should be done via commmand line. \
+:book: Document your instructions to setup and execute the tests. \
+:alarm_clock: Suite not complete after 1-2 hours? That’s OK. Document some notes/plans of what your intentions are, or what’s missing/TODO.
 
 ## Assignment 1 - Test project (Backend)
 This is the business scenario: As a company we need to test well our API infrastructure. You have been assigned to create a testing project that validates the feature offered by those APIs. \
