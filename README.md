@@ -36,8 +36,7 @@ Documents needed to complete the assignment:
 * one or more feature file containing all the scenarios
 * a description of the automation used to execute the project
 * a description of the project structure and used packages 
-* how you would have improved it if you had more time?
-* a README file with instructions on how to run the project successfully if the code is complete or how we could run it if it would have been.
+* a README file with instructions on how to run the project successfully if the code is complete.
 
 ## Assignment 2 - Existing feature file
 In this assignment you'll only need to fix the existing feature file and adapt it correctly to the OpenApi specification in `Assignment1` folder. You can find the feature file to fix in `Assignment2` folder
